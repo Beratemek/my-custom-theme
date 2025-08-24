@@ -1,0 +1,14 @@
+# IDE/OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Paket yöneticileri
+node_modules/
+vendor/
+
+# Çıktılar
+*.log
+*.zip
+*.map
